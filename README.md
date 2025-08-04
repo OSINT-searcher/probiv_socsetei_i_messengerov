@@ -46,5 +46,3 @@
 Все материалы и инструменты представлены «как есть» исключительно для повышения уровня цифровой грамотности и понимания угроз конфиденциальности.
 
 [Вернуться к каталогу OSINT-инструментов](https://github.com/OSINT-searcher/probiv_i_OSINT_instrumenti)
-
-[Открыть статью как отдельную страницу](https://osint-searcher.github.io/probiv_socsetei_i_messengerov/)
